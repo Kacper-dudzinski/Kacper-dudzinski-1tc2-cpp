@@ -1,6 +1,9 @@
 #include <iostream>
 
 int main() {
-    std::cout << "HELLO WORLD" << std::endl;
-    return 0;
+   for (int i = 1; i <= 26; i++) {
+    std::cout << i << " " << "litera to" << " " << (char)(i + 96) << "\n";
+
+   }
+   return 0;
 }
