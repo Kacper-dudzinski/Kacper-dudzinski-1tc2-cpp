@@ -11,7 +11,7 @@ int main() {
     char litera2 = 'f';
     */
 
-    std::cout << "mama\\nar#uto\\titanic\\ama\'\\tor";
+    std::cout << "mama\\nar#uto\\titanic\\ama'tor";
 
     return 0;
 }
